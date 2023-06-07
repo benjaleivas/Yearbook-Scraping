@@ -1,2 +1,3 @@
-# scraping_yearbook
-Code for web scraping yearbook pictures while avoiding bot detection.
+# Webscraping
+
+Python code for web scraping yearbook pictures while avoiding bot detection. Requires creating an email account for logging into the webpage.
